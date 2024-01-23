@@ -51,3 +51,4 @@ rsconnect/
 .dist 
 .virtual_documents
 .ipynb_checkpoints
+*churn*
